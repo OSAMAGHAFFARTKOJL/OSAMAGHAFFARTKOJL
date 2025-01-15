@@ -10,7 +10,7 @@ class OsamaGhaffar:
     def __init__(self):
         self.name = "Muhammad Osama Ghaffar"
         self.role = "Software Engineer & AI Enthusiast"
-        self.location = "Islamabad, Pakistan"
+        self.location = "Faisalabad, Pakistan"
         self.education = "BS Computer Science (2023-2027)"
         self.expertise = ["Machine Learning", "Deep Learning", "LLMs", "Gen AI", "DSA"]
         self.teaching = ["Gen AI", "Machine Learning", "DSA (LeetCode)"]
@@ -75,6 +75,27 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
 - Participated in multiple Gen AI hackathons on lablab.ai
 - [View My lablab.ai Profile](https://lablab.ai/u/@Inferno_Flarefgs0)
 
+Deployment & Cloud Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,git&theme=dark" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48" alt="Hugging Face" />
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="48" alt="Streamlit" />
+</p>
+[Previous Development Tools & IDEs and AI & Machine Learning sections remain the same]
+🎯 LeetCode Stats
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Osama_Ghaffar?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+<div align="center">
+Show Image
+</div>
+💻 Deployment Platforms Experience
+
+Streamlit Cloud: Deploying and hosting ML/AI applications
+Vercel: Frontend and full-stack application deployment
+Hugging Face Spaces: Hosting ML models and demos
+GitHub Pages: Static website hosting
+
 ## 📈 GitHub Statistics
 
 <div align="center">
@@ -86,10 +107,7 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSAMAGHAFFARTKOJL&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
-## 🔥 Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OSAMAGHAFFARTKOJL&theme=radical" alt="GitHub Streak"/>
-</div>
+
 
 ## 🤝 Connect with Me
 <div align="center">
