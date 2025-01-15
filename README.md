@@ -49,12 +49,6 @@ Hello! I'm Muhammad Osama Ghaffar, a passionate Software Engineer and Full Stack
 
 ---
 
-## 🔥 Streak Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=OSAMAGHAFFARTKOJL" alt="GitHub Streak Stats" />
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
