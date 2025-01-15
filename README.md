@@ -53,6 +53,7 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
   <img src="https://skillicons.dev/icons?i=vscode,github&theme=dark" />
   <img src="https://jupyter.org/assets/homepage/main-logo.svg" height="48" alt="Jupyter" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/100px-Apache_NetBeans_Logo.svg.png" height="48" alt="NetBeans" />
+  <img src="https://www.kaggle.com/static/images/site-logo.png" height="48" alt="Kaggle" />
 </p>
 
 ### AI & Machine Learning
