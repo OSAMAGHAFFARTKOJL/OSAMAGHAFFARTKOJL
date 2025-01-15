@@ -92,7 +92,6 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
   - Hugging Face Spaces for model hosting
   - Streamlit Cloud for interactive ML applications
   - Vercel for web application deployment
-  - Custom API development for model serving
 
 ## 🎯 LeetCode Stats & DSA
 <div align="center">
