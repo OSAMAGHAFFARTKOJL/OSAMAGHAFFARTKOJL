@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhammad Osama Ghaffar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23F7C06C&size=30&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+|+Full+Stack+Developer;AI+and+Machine+Learning+Expert;DSA+and+Competitive+Programming+Enthusiast;Gen+AI+Mentor+and+Educator;International+Hackathon+Participant">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23F7C06C&size=30&center=true&vCenter=true&width=600&height=100&lines=_Software+Engineer+|+Full+Stack+Developer_;AI+and+Machine+Learning+Expert;DSA+and+Competitive+Programming+Enthusiast;Gen+AI+Mentor+and+Educator;International+Hackathon+Participant">
 </div>
 
 ## 🎯 Quick Overview
@@ -58,30 +58,22 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
 
 </p>
 
-[Previous sections up to Technical Skills remain the same]
 
 ### AI & Machine Learning Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48" alt="Hugging Face" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="48" alt="OpenCV" />
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" height="48" alt="SciPy" />
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg" height="48" alt="NumPy" />
 </p>
 
-## 🤖 Gen AI & Open Source Contributions
-### Hugging Face Models & Spaces
-- 🔧 Experience with fine-tuning and deploying state-of-the-art LLMs
-- 🚀 Specialized in models like:
-  - LLaMA 2
-  - Mistral
-  - BERT/RoBERTa
-  - Stable Diffusion
-- 💡 Active contributor to model hub discussions and improvements
 
 ### Open Source Projects
 - 🌟 Contributing to AI/ML open source projects
 - 📚 Sharing fine-tuned models on Hugging Face Hub
+- Work with Api Models(Open Ai and more)
 - 🔍 Focus areas:
   - Natural Language Processing
   - Computer Vision
@@ -94,7 +86,6 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
   <img src="https://skillicons.dev/icons?i=vercel,git&theme=dark" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48" alt="Hugging Face" />
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="48" alt="Streamlit" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="48" alt="Google Cloud" />
 </p>
 
 - **ML Model Deployment**
@@ -144,9 +135,6 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
   </a>
   <a href="https://lablab.ai/u/@Inferno_Flarefgs0" target="_blank">
     <img src="https://img.shields.io/badge/lablab.ai-%23000000.svg?&style=for-the-badge&logo=lab&logoColor=white"/>
-  </a>
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?&style=for-the-badge&logo=huggingface&logoColor=black"/>
   </a>
   <a href="mailto:dev.osamaghaffar@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
