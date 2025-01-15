@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhammad Osama Ghaffar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23F7C06C&size=30&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+|+Full+Stack+Developer;AI+and+Machine+Learning+Expert;DSA+and+Competitive+Programming+Enthusiast;Gen+AI+Mentor+and+Educator;International+Hackathon+Participant">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23F7C06C&size=30&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Full+Stack+Developer;AI+and+Machine+Learning+Expert;DSA+and+Competitive+Programming+Enthusiast;Gen+AI+Mentor+and+Educator;International+Hackathon+Participant">
 </div>
 
 ## 🎯 Quick Overview
