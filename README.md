@@ -58,45 +58,63 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
 
 </p>
 
-### AI & Machine Learning
+[Previous sections up to Technical Skills remain the same]
+
+### AI & Machine Learning Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.13.0/files/light/colab-color.png" height="48" alt="Google Colab" />
-  <img src="https://www.kaggle.com/static/images/site-logo.png" height="48" alt="Kaggle" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48" alt="Hugging Face" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="48" alt="OpenCV" />
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" height="48" alt="SciPy" />
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg" height="48" alt="NumPy" />
 </p>
 
-## 🏆 Competitive Programming & DSA
-- Active participant on LeetCode, focusing on DSA and problem-solving
-- Target: FAANG Companies
-- [View My LeetCode Profile](https://leetcode.com/u/Osama_Ghaffar/)
+## 🤖 Gen AI & Open Source Contributions
+### Hugging Face Models & Spaces
+- 🔧 Experience with fine-tuning and deploying state-of-the-art LLMs
+- 🚀 Specialized in models like:
+  - LLaMA 2
+  - Mistral
+  - BERT/RoBERTa
+  - Stable Diffusion
+- 💡 Active contributor to model hub discussions and improvements
 
-## 🌟 AI & Machine Learning Projects
-- Experience with Machine Learning, Deep Learning, and LLMs
-- Participated in multiple Gen AI hackathons on lablab.ai
-- [View My lablab.ai Profile](https://lablab.ai/u/@Inferno_Flarefgs0)
+### Open Source Projects
+- 🌟 Contributing to AI/ML open source projects
+- 📚 Sharing fine-tuned models on Hugging Face Hub
+- 🔍 Focus areas:
+  - Natural Language Processing
+  - Computer Vision
+  - Generative AI
+  - RAG Applications
 
-Deployment & Cloud Platforms
+## 💻 Development & Deployment
+### Cloud Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,git&theme=dark" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48" alt="Hugging Face" />
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="48" alt="Streamlit" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="48" alt="Google Cloud" />
 </p>
-[Previous Development Tools & IDEs and AI & Machine Learning sections remain the same]
-🎯 LeetCode Stats
+
+- **ML Model Deployment**
+  - Hugging Face Spaces for model hosting
+  - Streamlit Cloud for interactive ML applications
+  - Vercel for web application deployment
+  - Custom API development for model serving
+
+## 🎯 LeetCode Stats & DSA
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Osama_Ghaffar?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
 </div>
+
 <div align="center">
-Show Image
+  
+[![LeetCode user Osama_Ghaffar](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FOsama_Ghaffar&logo=leetcode&logoColor=yellow)](https://leetcode.com/Osama_Ghaffar/)
+
 </div>
-💻 Deployment Platforms Experience
 
-Streamlit Cloud: Deploying and hosting ML/AI applications
-Vercel: Frontend and full-stack application deployment
-Hugging Face Spaces: Hosting ML models and demos
-GitHub Pages: Static website hosting
-
-## 📈 GitHub Statistics
+## 📈 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OSAMAGHAFFARTKOJL&theme=react-dark&hide_border=true" width="100%"/>
@@ -107,9 +125,16 @@ GitHub Pages: Static website hosting
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSAMAGHAFFARTKOJL&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
+## 🏆 Achievements & Certifications
 
+<div align="center">
 
-## 🤝 Connect with Me
+![Trophy](https://github-profile-trophy.vercel.app/?username=OSAMAGHAFFARTKOJL&theme=radical&row=1&column=7)
+
+</div>
+
+## 🤝 Let's Connect
+
 <div align="center">
   <a href="https://www.linkedin.com/in/osama-ghaffar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -120,6 +145,9 @@ GitHub Pages: Static website hosting
   <a href="https://lablab.ai/u/@Inferno_Flarefgs0" target="_blank">
     <img src="https://img.shields.io/badge/lablab.ai-%23000000.svg?&style=for-the-badge&logo=lab&logoColor=white"/>
   </a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?&style=for-the-badge&logo=huggingface&logoColor=black"/>
+  </a>
   <a href="mailto:dev.osamaghaffar@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -128,5 +156,5 @@ GitHub Pages: Static website hosting
 ---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=OSAMAGHAFFARTKOJL&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <h4>Thank you for visiting my profile! Let's connect and create something amazing together! 🚀</h4>
+  <h4>💫 Thank you for visiting my profile! Let's collaborate and innovate together! 🚀</h4>
 </div>
