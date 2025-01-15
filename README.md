@@ -59,7 +59,7 @@ I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, a
 ### AI & Machine Learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-  <img src="https://www.gstatic.com/images/branding/product/2x/colab_lockup_icon_32dp.png" height="48" alt="Google Colab" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.13.0/files/light/colab-color.png" height="48" alt="Google Colab" />
   <img src="https://www.kaggle.com/static/images/site-logo.png" height="48" alt="Kaggle" />
 </p>
 
