@@ -34,8 +34,8 @@ class OsamaGhaffar:
 
 | 🎖️ Achievement | 📍 Platform |
 |---|---|
-| Section Leader | Stanford University 2024 |
-| Top Team Lead | Harvard CS50x Puzzle Day |
+| Section Leader | Stanford University 2024,2025, 2026 |
+| Top Team Lead | 3x Harvard CS50x Puzzle Day |
 | Hackathon Participant | NASA Space Apps Challenge |
 | Gen AI Hackathons | lablab.ai (multiple rounds) |
 | Multiple Projects | Devpost Hackathons |
@@ -111,7 +111,13 @@ class OsamaGhaffar:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OSAMAGHAFFARTKOJL&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OSAMAGHAFFARTKOJL&theme=tokyonight" width="95%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OSAMAGHAFFARTKOJL&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OSAMAGHAFFARTKOJL&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OSAMAGHAFFARTKOJL&theme=tokyonight&utcOffset=5" width="32%"/>
 </div>
 
 ---
