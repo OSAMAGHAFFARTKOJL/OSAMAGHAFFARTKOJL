@@ -1,147 +1,142 @@
-# 👋 Hi, I'm Muhammad Osama Ghaffar
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23F7C06C&size=30&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Full+Stack+Developer;AI+and+Machine+Learning+Expert;Competitive+Programming+Enthusiast;Gen+AI+Mentor+and+Educator;International+Hackathon+Participant">
+
+# Hey there, I'm Osama 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Competitive+Programmer+%F0%9F%8F%86;Gen+AI+Mentor+%26+Educator+%F0%9F%8E%93;Building+cool+things+one+commit+at+a+time)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=OSAMAGHAFFARTKOJL&color=6ad3f7&style=flat-square&label=Profile+Views" />
+
 </div>
 
-## 🎯 Quick Overview
+---
+
+## `$ whoami`
+
 ```python
 class OsamaGhaffar:
-    def __init__(self):
-        self.name = "Muhammad Osama Ghaffar"
-        self.role = "Software Engineer & AI Enthusiast"
-        self.location = "Faisalabad, Pakistan"
-        self.education = "BS Computer Science (2023-2027)"
-        self.expertise = ["Machine Learning", "Deep Learning", "LLMs", "Gen AI", "DSA"]
-        self.teaching = ["Gen AI", "Machine Learning", "DSA (LeetCode)"]
-        
-    def say_hi(self):
-        print("Passionate about AI, teaching, and building innovative solutions!")
+    name       = "Muhammad Osama Ghaffar"
+    location   = "Faisalabad, Pakistan 🇵🇰"
+    education  = "BS Computer Science @ NUML, Islamabad (2023–2027)"
+    role       = "Software Engineer · AI/ML · Competitive Programmer"
+
+    interests  = ["Machine Learning", "Deep Learning", "LLMs", "Gen AI", "DSA"]
+    teaching   = ["Gen AI (Aspire Pakistan)", "DSA on LeetCode", "iCode Platform"]
+
+    currently  = "Learning · Building · Mentoring · Competing"
+
+    def fun_fact(self):
+        return "I debug with print() and I'm not ashamed 😅"
 ```
 
-## 👨‍💻 About Me
-I'm a dedicated Software Engineer with a strong focus on AI, Machine Learning, and competitive programming. I believe in continuous learning and sharing knowledge with others through mentoring and education.
+---
 
-- 🎓 **Education**: Bachelor's in Computer Science (2023-2027), National University of Modern Languages (NUML), Islamabad, Pakistan
-- 🏆 **International Achievements**: 
-  - Section Leader at Stanford University 2024
-  - Team Lead of Top Team in Harvard CS50x Puzzle Day
-  - Active participant in NASA Hackathons
-  - Frequent participant in lablab.ai Gen AI Hackathons
-  - Multiple Devpost Hackathon participations
-  [View All Achievements](https://docs.google.com/spreadsheets/d/18Z2LoT5oxyNy2y3ps9k9yzlOqU-52bAV4JBWk84udt8/edit?usp=sharing)
-- 👨‍🏫 **Teaching & Mentorship**:
-  - Gen AI Mentor in collaboration with Aspire Pakistan
-  - Active instructor on iCode platform (Teaching DSA and Gen AI)
-  - Free mentoring sessions for students
-  [View All Sessions](https://docs.google.com/spreadsheets/d/1oSyAPuvyFXGNPTCJkWaF-SGGBTjx12QfLBn8DC_VsPs/edit?usp=sharing)
+## 🏆 Highlights
 
-## 🛠️ Technical Skills
+| 🎖️ Achievement | 📍 Platform |
+|---|---|
+| Section Leader | Stanford University 2024 |
+| Top Team Lead | Harvard CS50x Puzzle Day |
+| Hackathon Participant | NASA Space Apps Challenge |
+| Gen AI Hackathons | lablab.ai (multiple rounds) |
+| Multiple Projects | Devpost Hackathons |
 
-### Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css&theme=dark" />
-</p>
+> 📄 [View full achievement list →](https://docs.google.com/spreadsheets/d/18Z2LoT5oxyNy2y3ps9k9yzlOqU-52bAV4JBWk84udt8/edit?usp=sharing)
 
-### Frameworks & Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,flask,arduino,mysql,postgres&theme=dark" />
-</p>
+---
 
-### Development Tools & IDEs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github&theme=dark" />
-  <img src="https://jupyter.org/assets/homepage/main-logo.svg" height="48" alt="Jupyter" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/100px-Apache_NetBeans_Logo.svg.png" height="48" alt="NetBeans" />
-  <img src="https://www.kaggle.com/static/images/site-logo.png" height="48" alt="Kaggle" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.13.0/files/light/colab-color.png" height="48" alt="Google Colab" />
+## 🛠️ Tech Stack
 
-</p>
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### AI & Machine Learning Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48" alt="Hugging Face" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="48" alt="OpenCV" />
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" height="48" alt="SciPy" />
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg" height="48" alt="NumPy" />
-</p>
+**Frameworks & Backends**
 
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-### Open Source Projects
-- 🌟 Contributing to AI/ML open source projects
-- 📚 Sharing fine-tuned models on Hugging Face Hub
-- Work with Api Models(Open Ai and more)
-- 🔍 Focus areas:
-  - Natural Language Processing
-  - Computer Vision
-  - Generative AI
-  - RAG Applications
+**AI / ML**
 
-## 💻 Development & Deployment
-### Cloud Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,git&theme=dark" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48" alt="Hugging Face" />
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="48" alt="Streamlit" />
-</p>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-- **ML Model Deployment**
-  - Hugging Face Spaces for model hosting
-  - Streamlit Cloud for interactive ML applications
-  - Vercel for web application deployment
+**Databases**
 
-## 🎯 LeetCode Stats & DSA
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools & Deployment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## 🤖 What I'm Working On
+
+- 🔬 Fine-tuning and deploying LLMs via Hugging Face Spaces
+- 🧠 Building RAG applications with OpenAI and open-source models
+- 📊 Solving problems daily on LeetCode (NLP + CV projects on the side)
+- 🏫 Mentoring students in Gen AI and DSA through Aspire Pakistan & iCode
+
+> 📄 [View all mentoring sessions →](https://docs.google.com/spreadsheets/d/1oSyAPuvyFXGNPTCJkWaF-SGGBTjx12QfLBn8DC_VsPs/edit?usp=sharing)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Osama_Ghaffar?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OSAMAGHAFFARTKOJL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSAMAGHAFFARTKOJL&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  
-[![LeetCode user Osama_Ghaffar](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FOsama_Ghaffar&logo=leetcode&logoColor=yellow)](https://leetcode.com/Osama_Ghaffar/)
-
+  <img src="https://streak-stats.demolab.com?user=OSAMAGHAFFARTKOJL&theme=tokyonight&hide_border=true" />
 </div>
-
-## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OSAMAGHAFFARTKOJL&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OSAMAGHAFFARTKOJL&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OSAMAGHAFFARTKOJL&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSAMAGHAFFARTKOJL&layout=compact&langs_count=8&theme=radical"/>
-</p>
+---
 
-## 🏆 Achievements & Certifications
+## ⚔️ LeetCode
 
 <div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=OSAMAGHAFFARTKOJL&theme=radical&row=1&column=7)
-
+  <img src="https://leetcard.jacoblin.cool/Osama_Ghaffar?theme=dark&font=Fira+Code&ext=heatmap" />
 </div>
+
+---
 
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/osama-ghaffar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Osama_Ghaffar/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://lablab.ai/u/@Inferno_Flarefgs0" target="_blank">
-    <img src="https://img.shields.io/badge/lablab.ai-%23000000.svg?&style=for-the-badge&logo=lab&logoColor=white"/>
-  </a>
-  <a href="mailto:dev.osamaghaffar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-ghaffar/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Osama_Ghaffar/)
+[![lablab.ai](https://img.shields.io/badge/lablab.ai-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)](https://lablab.ai/u/@Inferno_Flarefgs0)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.osamaghaffar@gmail.com)
+
 </div>
 
 ---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OSAMAGHAFFARTKOJL&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <h4>💫 Thank you for visiting my profile! Let's collaborate and innovate together! 🚀</h4>
+  <i>Open to collabs, hackathons, and interesting conversations. Don't be a stranger! 🚀</i>
 </div>
